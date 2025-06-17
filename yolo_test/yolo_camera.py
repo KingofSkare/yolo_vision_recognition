@@ -8,7 +8,7 @@ import time
 
 # Make sure these files are in the same directory as this script.
 CONFIG_FILE = 'yolov3.cfg'
-WEIGHTS_FILE = 'yolov3.weights'
+WEIGHTS_FILE = r"C:\Users\inge-\Documents\scripts\yolov3.weights" # Adjust the path as needed
 CLASSES_FILE = 'coco.names.txt'
 
 
